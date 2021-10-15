@@ -1,871 +1,871 @@
-﻿ABB_NAME,Offence Count,Rate
- Banyule,"8,485",6455.50
- Brimbank,"19,226",9478.40
- Darebin,"14,726",8931.40
- Hobsons Bay,"5,592",5744.00
- Hume,"20,775",8460.10
- Maribyrnong,"8,842",9414.00
- Melbourne,"35,766",21355.90
- Melton,"13,542",7530.90
- Moonee Valley,"7,932",6064.60
- Moreland,"12,861",6877.00
- Nillumbik,"2,358",3635.30
- Whittlesea,"15,785",6630.30
- Wyndham,"17,428",5996.10
- Yarra,"13,323",13210.40
-Total,"196,641",8566.20
- Alpine,531,4053.90
- Bass Coast,"3,164",8199.70
- Baw Baw,"4,873",8668.20
- Benalla,"1,474",10365.70
- Boroondara,"7,267",4080.30
- East Gippsland,"5,086",10558.20
- Greater Shepparton,"9,672",14374.10
- Indigo,622,3633.60
- Knox,"11,074",6740.00
- Latrobe,"12,745",16713.20
- Manningham,"4,668",3663.30
- Mansfield,567,5914.30
- Maroondah,"7,965",6700.50
- Mitchell,"5,138",10585.70
- Moira,"2,438",8137.20
- Monash,"12,713",6411.10
- Murrindindi,919,6158.30
- South Gippsland,"1,907",6245.30
- Strathbogie,611,5519.60
- Towong,223,3631.40
- Wangaratta,"3,108",10643.40
- Wellington,"4,759",10544.50
- Whitehorse,"8,711",4915.20
- Wodonga,"3,412",7907.80
- Yarra Ranges,"8,553",5375.80
-Total,"122,200",7094.30
- Bayside,"4,806",4495.00
- Cardinia,"7,191",6073.90
- Casey,"21,168",5729.70
- Frankston,"13,578",9491.70
- Glen Eira,"7,353",4716.80
- Greater Dandenong,"18,318",11145.80
- Kingston,"10,821",6521.50
- Mornington Peninsula,"10,096",5955.90
- Port Phillip,"13,500",11903.00
- Stonnington,"11,445",9912.90
-Total,"118,276",7290.40
- Ararat,"1,972",16427.50
- Ballarat,"9,717",8572.50
- Buloke,411,6817.10
- Campaspe,"3,312",8805.50
- Central Goldfields,"1,119",8572.10
- Colac-Otway,"1,521",7033.30
- Corangamite,861,5478.90
- Gannawarra,976,9455.90
- Glenelg,"1,699",8689.30
- Golden Plains,604,2441.60
- Greater Bendigo,"10,985",9007.10
- Greater Geelong,"21,295",7858.60
- Hepburn,596,3682.20
- Hindmarsh,617,11182.80
- Horsham,"2,436",12201.70
- Loddon,575,7693.00
- Macedon Ranges,"2,492",4824.60
- Mildura,"5,979",10723.70
- Moorabool,"2,641",7173.50
- Mount Alexander,889,4412.80
- Moyne,645,3794.80
- Northern Grampians,"1,259",11167.40
- Pyrenees,478,6321.00
- Queenscliffe,99,3280.10
- Southern Grampians,"1,066",6645.10
- Surf Coast,"1,456",4059.10
- Swan Hill,"2,604",12776.40
- Warrnambool,"3,303",9295.90
- West Wimmera,167,4430.70
- Yarriambiack,412,6391.70
-Total,"82,186",7922.70
- Justice Institutions and Immigration Facilities,"2,898",
+﻿ABB_NAME,OffenceCount,Rate
+Banyule,"8,485",6455.5
+Brimbank,"19,226",9478.4
+Darebin,"14,726",8931.4
+HobsonsBay,"5,592",5744
+Hume,"20,775",8460.1
+Maribyrnong,"8,842",9414
+Melbourne,"35,766",21355.9
+Melton,"13,542",7530.9
+MooneeValley,"7,932",6064.6
+Moreland,"12,861",6877
+Nillumbik,"2,358",3635.3
+Whittlesea,"15,785",6630.3
+Wyndham,"17,428",5996.1
+Yarra,"13,323",13210.4
+Total,"196,641",8566.2
+Alpine,531,4053.9
+BassCoast,"3,164",8199.7
+BawBaw,"4,873",8668.2
+Benalla,"1,474",10365.7
+Boroondara,"7,267",4080.3
+EastGippsland,"5,086",10558.2
+GreaterShepparton,"9,672",14374.1
+Indigo,622,3633.6
+Knox,"11,074",6740
+Latrobe,"12,745",16713.2
+Manningham,"4,668",3663.3
+Mansfield,567,5914.3
+Maroondah,"7,965",6700.5
+Mitchell,"5,138",10585.7
+Moira,"2,438",8137.2
+Monash,"12,713",6411.1
+Murrindindi,919,6158.3
+SouthGippsland,"1,907",6245.3
+Strathbogie,611,5519.6
+Towong,223,3631.4
+Wangaratta,"3,108",10643.4
+Wellington,"4,759",10544.5
+Whitehorse,"8,711",4915.2
+Wodonga,"3,412",7907.8
+YarraRanges,"8,553",5375.8
+Total,"122,200",7094.3
+Bayside,"4,806",4495
+Cardinia,"7,191",6073.9
+Casey,"21,168",5729.7
+Frankston,"13,578",9491.7
+GlenEira,"7,353",4716.8
+GreaterDandenong,"18,318",11145.8
+Kingston,"10,821",6521.5
+MorningtonPeninsula,"10,096",5955.9
+PortPhillip,"13,500",11903
+Stonnington,"11,445",9912.9
+Total,"118,276",7290.4
+Ararat,"1,972",16427.5
+Ballarat,"9,717",8572.5
+Buloke,411,6817.1
+Campaspe,"3,312",8805.5
+CentralGoldfields,"1,119",8572.1
+Colac-Otway,"1,521",7033.3
+Corangamite,861,5478.9
+Gannawarra,976,9455.9
+Glenelg,"1,699",8689.3
+GoldenPlains,604,2441.6
+GreaterBendigo,"10,985",9007.1
+GreaterGeelong,"21,295",7858.6
+Hepburn,596,3682.2
+Hindmarsh,617,11182.8
+Horsham,"2,436",12201.7
+Loddon,575,7693
+MacedonRanges,"2,492",4824.6
+Mildura,"5,979",10723.7
+Moorabool,"2,641",7173.5
+MountAlexander,889,4412.8
+Moyne,645,3794.8
+NorthernGrampians,"1,259",11167.4
+Pyrenees,478,6321
+Queenscliffe,99,3280.1
+SouthernGrampians,"1,066",6645.1
+SurfCoast,"1,456",4059.1
+SwanHill,"2,604",12776.4
+Warrnambool,"3,303",9295.9
+WestWimmera,167,4430.7
+Yarriambiack,412,6391.7
+Total,"82,186",7922.7
+JusticeInstitutionsandImmigrationFacilities,"2,898",
 Total,"2,898",
- Unincorporated Vic,52,
+UnincorporatedVic,52,
 Total,52,
- Banyule,"9,692",7345.80
- Brimbank,"20,239",9718.70
- Darebin,"15,162",9110.10
- Hobsons Bay,"6,098",6210.50
- Hume,"21,534",8928.30
- Maribyrnong,"9,392",9888.20
- Melbourne,"35,757",19459.00
- Melton,"13,370",7750.70
- Moonee Valley,"8,635",6553.90
- Moreland,"14,337",7595.30
- Nillumbik,"2,267",3476.00
- Whittlesea,"16,539",6992.10
- Wyndham,"17,558",6197.80
- Yarra,"14,146",13717.30
-Total,"204,726",8878.30
- Alpine,595,4586.40
- Bass Coast,"2,591",6919.50
- Baw Baw,"4,797",8740.30
- Benalla,"1,221",8636.90
- Boroondara,"8,802",4809.20
- East Gippsland,"4,963",10399.20
- Greater Shepparton,"8,839",13178.80
- Indigo,563,3334.30
- Knox,"12,138",7349.80
- Latrobe,"13,712",18062.30
- Manningham,"4,722",3662.50
- Mansfield,461,4865.90
- Maroondah,"7,996",6696.80
- Mitchell,"4,694",9851.60
- Moira,"2,446",8148.40
- Monash,"12,064",5886.70
- Murrindindi,837,5709.00
- South Gippsland,"1,667",5511.10
- Strathbogie,568,5167.40
- Towong,225,3687.30
- Wangaratta,"2,501",8565.90
- Wellington,"4,598",10270.30
- Whitehorse,"9,335",5165.00
- Wodonga,"3,847",9017.40
- Yarra Ranges,"8,743",5465.90
-Total,"122,925",7085.30
- Bayside,"5,397",5018.60
- Cardinia,"7,241",6231.90
- Casey,"23,594",6471.20
- Frankston,"15,052",10501.10
- Glen Eira,"7,957",5029.20
- Greater Dandenong,"18,924",11240.10
- Kingston,"12,077",7219.10
- Mornington Peninsula,"11,792",6983.20
- Port Phillip,"13,078",11228.10
- Stonnington,"12,149",10242.50
-Total,"127,261",7809.80
- Ararat,"1,392",11633.90
- Ballarat,"11,124",9989.10
- Buloke,366,5999.00
- Campaspe,"3,875",10285.30
- Central Goldfields,"1,238",9456.20
- Colac-Otway,"1,781",8221.80
- Corangamite,712,4469.80
- Gannawarra,774,7442.30
- Glenelg,"1,597",8139.20
- Golden Plains,630,2598.00
- Greater Bendigo,"11,226",9356.60
- Greater Geelong,"22,837",8622.10
- Hepburn,849,5254.70
- Hindmarsh,356,6366.20
- Horsham,"2,278",11379.80
- Loddon,488,6530.20
- Macedon Ranges,"2,456",4818.40
- Mildura,"7,512",13429.40
- Moorabool,"2,214",6147.80
- Mount Alexander,"1,102",5509.70
- Moyne,654,3841.00
- Northern Grampians,"1,079",9462.40
- Pyrenees,551,7293.20
- Queenscliffe,115,3823.10
- Southern Grampians,"1,191",7381.90
- Surf Coast,"1,345",3868.20
- Swan Hill,"2,418",11775.60
- Warrnambool,"3,267",9194.30
- West Wimmera,168,4409.40
- Yarriambiack,553,8394.00
-Total,"86,148",8401.20
- Justice Institutions and Immigration Facilities,"2,870",
+Banyule,"9,692",7345.8
+Brimbank,"20,239",9718.7
+Darebin,"15,162",9110.1
+HobsonsBay,"6,098",6210.5
+Hume,"21,534",8928.3
+Maribyrnong,"9,392",9888.2
+Melbourne,"35,757",19459
+Melton,"13,370",7750.7
+MooneeValley,"8,635",6553.9
+Moreland,"14,337",7595.3
+Nillumbik,"2,267",3476
+Whittlesea,"16,539",6992.1
+Wyndham,"17,558",6197.8
+Yarra,"14,146",13717.3
+Total,"204,726",8878.3
+Alpine,595,4586.4
+BassCoast,"2,591",6919.5
+BawBaw,"4,797",8740.3
+Benalla,"1,221",8636.9
+Boroondara,"8,802",4809.2
+EastGippsland,"4,963",10399.2
+GreaterShepparton,"8,839",13178.8
+Indigo,563,3334.3
+Knox,"12,138",7349.8
+Latrobe,"13,712",18062.3
+Manningham,"4,722",3662.5
+Mansfield,461,4865.9
+Maroondah,"7,996",6696.8
+Mitchell,"4,694",9851.6
+Moira,"2,446",8148.4
+Monash,"12,064",5886.7
+Murrindindi,837,5709
+SouthGippsland,"1,667",5511.1
+Strathbogie,568,5167.4
+Towong,225,3687.3
+Wangaratta,"2,501",8565.9
+Wellington,"4,598",10270.3
+Whitehorse,"9,335",5165
+Wodonga,"3,847",9017.4
+YarraRanges,"8,743",5465.9
+Total,"122,925",7085.3
+Bayside,"5,397",5018.6
+Cardinia,"7,241",6231.9
+Casey,"23,594",6471.2
+Frankston,"15,052",10501.1
+GlenEira,"7,957",5029.2
+GreaterDandenong,"18,924",11240.1
+Kingston,"12,077",7219.1
+MorningtonPeninsula,"11,792",6983.2
+PortPhillip,"13,078",11228.1
+Stonnington,"12,149",10242.5
+Total,"127,261",7809.8
+Ararat,"1,392",11633.9
+Ballarat,"11,124",9989.1
+Buloke,366,5999
+Campaspe,"3,875",10285.3
+CentralGoldfields,"1,238",9456.2
+Colac-Otway,"1,781",8221.8
+Corangamite,712,4469.8
+Gannawarra,774,7442.3
+Glenelg,"1,597",8139.2
+GoldenPlains,630,2598
+GreaterBendigo,"11,226",9356.6
+GreaterGeelong,"22,837",8622.1
+Hepburn,849,5254.7
+Hindmarsh,356,6366.2
+Horsham,"2,278",11379.8
+Loddon,488,6530.2
+MacedonRanges,"2,456",4818.4
+Mildura,"7,512",13429.4
+Moorabool,"2,214",6147.8
+MountAlexander,"1,102",5509.7
+Moyne,654,3841
+NorthernGrampians,"1,079",9462.4
+Pyrenees,551,7293.2
+Queenscliffe,115,3823.1
+SouthernGrampians,"1,191",7381.9
+SurfCoast,"1,345",3868.2
+SwanHill,"2,418",11775.6
+Warrnambool,"3,267",9194.3
+WestWimmera,168,4409.4
+Yarriambiack,553,8394
+Total,"86,148",8401.2
+JusticeInstitutionsandImmigrationFacilities,"2,870",
 Total,"2,870",
- Unincorporated Vic,158,
+UnincorporatedVic,158,
 Total,158,
- Banyule,"9,155",6954.60
- Brimbank,"18,729",8937.00
- Darebin,"14,556",8863.50
- Hobsons Bay,"6,265",6408.20
- Hume,"21,059",9017.10
- Maribyrnong,"8,274",8850.90
- Melbourne,"34,236",19126.90
- Melton,"11,273",6834.80
- Moonee Valley,"7,896",6059.30
- Moreland,"14,247",7667.50
- Nillumbik,"2,149",3301.10
- Whittlesea,"16,038",6964.10
- Wyndham,"15,328",5664.30
- Yarra,"13,180",12983.20
-Total,"192,385",8520.90
- Alpine,601,4690.90
- Bass Coast,"2,448",6741.00
- Baw Baw,"4,714",8828.70
- Benalla,"1,292",9206.20
- Boroondara,"7,266",3966.20
- East Gippsland,"4,559",9636.80
- Greater Shepparton,"8,808",13244.90
- Indigo,572,3425.40
- Knox,"11,044",6711.50
- Latrobe,"14,273",18891.40
- Manningham,"4,720",3699.50
- Mansfield,453,4937.30
- Maroondah,"8,239",6948.70
- Mitchell,"4,523",9814.00
- Moira,"2,338",7814.20
- Monash,"10,548",5198.70
- Murrindindi,738,5065.90
- South Gippsland,"1,583",5292.50
- Strathbogie,657,6095.80
- Towong,205,3394.60
- Wangaratta,"2,362",8093.50
- Wellington,"4,257",9592.60
- Whitehorse,"8,576",4797.00
- Wodonga,"3,293",7825.00
- Yarra Ranges,"8,488",5322.50
-Total,"116,557",6777.40
- Bayside,"4,844",4533.20
- Cardinia,"6,411",5715.00
- Casey,"21,503",6074.90
- Frankston,"14,376",10078.20
- Glen Eira,"6,681",4268.10
- Greater Dandenong,"18,125",10772.00
- Kingston,"11,621",7008.90
- Mornington Peninsula,"10,640",6347.70
- Port Phillip,"12,339",10672.00
- Stonnington,"10,530",8940.70
-Total,"117,070",7283.80
- Ararat,"1,302",10992.90
- Ballarat,"10,878",9933.90
- Buloke,253,4132.00
- Campaspe,"4,125",10966.40
- Central Goldfields,"1,316",9983.30
- Colac-Otway,"1,593",7388.00
- Corangamite,672,4195.50
- Gannawarra,895,8549.00
- Glenelg,"1,433",7284.80
- Golden Plains,602,2537.70
- Greater Bendigo,"11,248",9524.90
- Greater Geelong,"20,725",8003.80
- Hepburn,796,4983.40
- Hindmarsh,360,6444.70
- Horsham,"2,725",13679.70
- Loddon,481,6411.60
- Macedon Ranges,"2,496",4969.10
- Mildura,"7,201",12909.90
- Moorabool,"2,221",6336.50
- Mount Alexander,"1,103",5584.50
- Moyne,636,3751.80
- Northern Grampians,997,8744.80
- Pyrenees,638,8540.80
- Queenscliffe,136,4627.40
- Southern Grampians,"1,385",8603.60
- Surf Coast,"1,176",3515.00
- Swan Hill,"2,609",12634.40
- Warrnambool,"3,882",11034.40
- West Wimmera,179,4662.70
- Yarriambiack,406,6117.20
-Total,"84,469",8353.70
- Justice Institutions and Immigration Facilities,"2,876",
+Banyule,"9,155",6954.6
+Brimbank,"18,729",8937
+Darebin,"14,556",8863.5
+HobsonsBay,"6,265",6408.2
+Hume,"21,059",9017.1
+Maribyrnong,"8,274",8850.9
+Melbourne,"34,236",19126.9
+Melton,"11,273",6834.8
+MooneeValley,"7,896",6059.3
+Moreland,"14,247",7667.5
+Nillumbik,"2,149",3301.1
+Whittlesea,"16,038",6964.1
+Wyndham,"15,328",5664.3
+Yarra,"13,180",12983.2
+Total,"192,385",8520.9
+Alpine,601,4690.9
+BassCoast,"2,448",6741
+BawBaw,"4,714",8828.7
+Benalla,"1,292",9206.2
+Boroondara,"7,266",3966.2
+EastGippsland,"4,559",9636.8
+GreaterShepparton,"8,808",13244.9
+Indigo,572,3425.4
+Knox,"11,044",6711.5
+Latrobe,"14,273",18891.4
+Manningham,"4,720",3699.5
+Mansfield,453,4937.3
+Maroondah,"8,239",6948.7
+Mitchell,"4,523",9814
+Moira,"2,338",7814.2
+Monash,"10,548",5198.7
+Murrindindi,738,5065.9
+SouthGippsland,"1,583",5292.5
+Strathbogie,657,6095.8
+Towong,205,3394.6
+Wangaratta,"2,362",8093.5
+Wellington,"4,257",9592.6
+Whitehorse,"8,576",4797
+Wodonga,"3,293",7825
+YarraRanges,"8,488",5322.5
+Total,"116,557",6777.4
+Bayside,"4,844",4533.2
+Cardinia,"6,411",5715
+Casey,"21,503",6074.9
+Frankston,"14,376",10078.2
+GlenEira,"6,681",4268.1
+GreaterDandenong,"18,125",10772
+Kingston,"11,621",7008.9
+MorningtonPeninsula,"10,640",6347.7
+PortPhillip,"12,339",10672
+Stonnington,"10,530",8940.7
+Total,"117,070",7283.8
+Ararat,"1,302",10992.9
+Ballarat,"10,878",9933.9
+Buloke,253,4132
+Campaspe,"4,125",10966.4
+CentralGoldfields,"1,316",9983.3
+Colac-Otway,"1,593",7388
+Corangamite,672,4195.5
+Gannawarra,895,8549
+Glenelg,"1,433",7284.8
+GoldenPlains,602,2537.7
+GreaterBendigo,"11,248",9524.9
+GreaterGeelong,"20,725",8003.8
+Hepburn,796,4983.4
+Hindmarsh,360,6444.7
+Horsham,"2,725",13679.7
+Loddon,481,6411.6
+MacedonRanges,"2,496",4969.1
+Mildura,"7,201",12909.9
+Moorabool,"2,221",6336.5
+MountAlexander,"1,103",5584.5
+Moyne,636,3751.8
+NorthernGrampians,997,8744.8
+Pyrenees,638,8540.8
+Queenscliffe,136,4627.4
+SouthernGrampians,"1,385",8603.6
+SurfCoast,"1,176",3515
+SwanHill,"2,609",12634.4
+Warrnambool,"3,882",11034.4
+WestWimmera,179,4662.7
+Yarriambiack,406,6117.2
+Total,"84,469",8353.7
+JusticeInstitutionsandImmigrationFacilities,"2,876",
 Total,"2,876",
- Unincorporated Vic,149,
+UnincorporatedVic,149,
 Total,149,
- Banyule,"9,684",7434.90
- Brimbank,"18,425",8826.60
- Darebin,"14,679",9080.60
- Hobsons Bay,"6,028",6247.90
- Hume,"20,215",9007.50
- Maribyrnong,"8,297",9076.40
- Melbourne,"37,483",22007.80
- Melton,"10,778",6877.30
- Moonee Valley,"8,836",6908.20
- Moreland,"13,677",7523.90
- Nillumbik,"2,195",3380.00
- Whittlesea,"15,406",6897.80
- Wyndham,"14,039",5497.60
- Yarra,"13,786",13986.40
-Total,"193,528",8829.20
- Alpine,500,3927.70
- Bass Coast,"2,170",6142.80
- Baw Baw,"4,078",7840.50
- Benalla,"1,308",9327.50
- Boroondara,"6,852",3777.80
- East Gippsland,"4,374",9343.00
- Greater Shepparton,"8,353",12654.50
- Indigo,411,2492.60
- Knox,"11,353",6956.00
- Latrobe,"13,888",18465.90
- Manningham,"4,708",3750.30
- Mansfield,585,6515.20
- Maroondah,"7,955",6769.90
- Mitchell,"4,401",9935.00
- Moira,"1,979",6641.60
- Monash,"10,728",5358.30
- Murrindindi,731,5049.00
- South Gippsland,"1,366",4618.80
- Strathbogie,592,5561.80
- Towong,207,3419.20
- Wangaratta,"2,356",8100.10
- Wellington,"3,695",8394.50
- Whitehorse,"8,131",4612.70
- Wodonga,"3,315",8001.60
- Yarra Ranges,"7,875",4978.80
-Total,"111,911",6585.90
- Bayside,"4,767",4508.00
- Cardinia,"5,835",5447.30
- Casey,"20,164",5922.90
- Frankston,"14,783",10421.80
- Glen Eira,"6,548",4254.20
- Greater Dandenong,"18,357",11049.10
- Kingston,"10,527",6440.40
- Mornington Peninsula,"10,879",6560.60
- Port Phillip,"12,868",11361.00
- Stonnington,"10,551",9073.70
-Total,"115,279",7323.80
- Ararat,"1,287",10911.40
- Ballarat,"11,422",10642.50
- Buloke,247,3994.80
- Campaspe,"3,571",9499.90
- Central Goldfields,"1,603",12136.60
- Colac-Otway,"1,586",7376.10
- Corangamite,849,5260.50
- Gannawarra,568,5385.90
- Glenelg,"1,544",7851.90
- Golden Plains,681,2945.80
- Greater Bendigo,"9,735",8389.30
- Greater Geelong,"21,595",8561.70
- Hepburn,842,5325.10
- Hindmarsh,334,5917.80
- Horsham,"2,482",12488.70
- Loddon,412,5483.80
- Macedon Ranges,"2,097",4246.10
- Mildura,"6,642",11964.10
- Moorabool,"2,296",6722.10
- Mount Alexander,869,4453.20
- Moyne,537,3180.00
- Northern Grampians,"1,022",8941.40
- Pyrenees,420,5712.00
- Queenscliffe,294,9859.20
- Southern Grampians,"1,508",9346.70
- Surf Coast,"1,130",3503.70
- Swan Hill,"2,518",12129.10
- Warrnambool,"3,659",10495.40
- West Wimmera,159,4117.00
- Yarriambiack,523,7855.20
-Total,"82,432",8276.80
- Justice Institutions and Immigration Facilities,"2,541",
+Banyule,"9,684",7434.9
+Brimbank,"18,425",8826.6
+Darebin,"14,679",9080.6
+HobsonsBay,"6,028",6247.9
+Hume,"20,215",9007.5
+Maribyrnong,"8,297",9076.4
+Melbourne,"37,483",22007.8
+Melton,"10,778",6877.3
+MooneeValley,"8,836",6908.2
+Moreland,"13,677",7523.9
+Nillumbik,"2,195",3380
+Whittlesea,"15,406",6897.8
+Wyndham,"14,039",5497.6
+Yarra,"13,786",13986.4
+Total,"193,528",8829.2
+Alpine,500,3927.7
+BassCoast,"2,170",6142.8
+BawBaw,"4,078",7840.5
+Benalla,"1,308",9327.5
+Boroondara,"6,852",3777.8
+EastGippsland,"4,374",9343
+GreaterShepparton,"8,353",12654.5
+Indigo,411,2492.6
+Knox,"11,353",6956
+Latrobe,"13,888",18465.9
+Manningham,"4,708",3750.3
+Mansfield,585,6515.2
+Maroondah,"7,955",6769.9
+Mitchell,"4,401",9935
+Moira,"1,979",6641.6
+Monash,"10,728",5358.3
+Murrindindi,731,5049
+SouthGippsland,"1,366",4618.8
+Strathbogie,592,5561.8
+Towong,207,3419.2
+Wangaratta,"2,356",8100.1
+Wellington,"3,695",8394.5
+Whitehorse,"8,131",4612.7
+Wodonga,"3,315",8001.6
+YarraRanges,"7,875",4978.8
+Total,"111,911",6585.9
+Bayside,"4,767",4508
+Cardinia,"5,835",5447.3
+Casey,"20,164",5922.9
+Frankston,"14,783",10421.8
+GlenEira,"6,548",4254.2
+GreaterDandenong,"18,357",11049.1
+Kingston,"10,527",6440.4
+MorningtonPeninsula,"10,879",6560.6
+PortPhillip,"12,868",11361
+Stonnington,"10,551",9073.7
+Total,"115,279",7323.8
+Ararat,"1,287",10911.4
+Ballarat,"11,422",10642.5
+Buloke,247,3994.8
+Campaspe,"3,571",9499.9
+CentralGoldfields,"1,603",12136.6
+Colac-Otway,"1,586",7376.1
+Corangamite,849,5260.5
+Gannawarra,568,5385.9
+Glenelg,"1,544",7851.9
+GoldenPlains,681,2945.8
+GreaterBendigo,"9,735",8389.3
+GreaterGeelong,"21,595",8561.7
+Hepburn,842,5325.1
+Hindmarsh,334,5917.8
+Horsham,"2,482",12488.7
+Loddon,412,5483.8
+MacedonRanges,"2,097",4246.1
+Mildura,"6,642",11964.1
+Moorabool,"2,296",6722.1
+MountAlexander,869,4453.2
+Moyne,537,3180
+NorthernGrampians,"1,022",8941.4
+Pyrenees,420,5712
+Queenscliffe,294,9859.2
+SouthernGrampians,"1,508",9346.7
+SurfCoast,"1,130",3503.7
+SwanHill,"2,518",12129.1
+Warrnambool,"3,659",10495.4
+WestWimmera,159,4117
+Yarriambiack,523,7855.2
+Total,"82,432",8276.8
+JusticeInstitutionsandImmigrationFacilities,"2,541",
 Total,"2,541",
- Unincorporated Vic,126,
+UnincorporatedVic,126,
 Total,126,
- Banyule,"9,658",7480.20
- Brimbank,"17,863",8629.60
- Darebin,"16,355",10302.30
- Hobsons Bay,"6,322",6649.80
- Hume,"21,916",10182.20
- Maribyrnong,"8,686",9720.00
- Melbourne,"36,935",23209.00
- Melton,"11,147",7500.40
- Moonee Valley,"9,431",7520.10
- Moreland,"13,916",7863.30
- Nillumbik,"2,744",4246.50
- Whittlesea,"16,117",7472.40
- Wyndham,"14,731",6110.60
- Yarra,"13,430",13990.50
-Total,"199,251",9389.60
- Alpine,379,2998.90
- Bass Coast,"2,647",7697.90
- Baw Baw,"3,871",7638.70
- Benalla,"1,309",9367.40
- Boroondara,"8,350",4647.20
- East Gippsland,"3,888",8427.30
- Greater Shepparton,"8,324",12697.90
- Indigo,457,2798.00
- Knox,"12,105",7480.20
- Latrobe,"13,928",18593.50
- Manningham,"5,194",4179.60
- Mansfield,637,7241.90
- Maroondah,"8,925",7672.70
- Mitchell,"4,582",10679.90
- Moira,"1,979",6674.10
- Monash,"11,721",5952.10
- Murrindindi,671,4714.10
- South Gippsland,"1,587",5412.50
- Strathbogie,632,6028.20
- Towong,207,3427.70
- Wangaratta,"2,473",8571.00
- Wellington,"4,386",10013.50
- Whitehorse,"8,544",4931.20
- Wodonga,"3,266",8002.50
- Yarra Ranges,"8,540",5444.00
-Total,"118,602",7065.30
- Bayside,"5,159",4947.20
- Cardinia,"6,606",6451.00
- Casey,"23,499",7191.30
- Frankston,"15,822",11243.80
- Glen Eira,"7,532",4973.00
- Greater Dandenong,"19,900",12169.90
- Kingston,"11,282",7005.20
- Mornington Peninsula,"11,638",7103.50
- Port Phillip,"13,620",12308.40
- Stonnington,"10,832",9520.80
-Total,"125,890",8182.80
- Ararat,"1,304",11092.20
- Ballarat,"11,970",11354.40
- Buloke,177,2852.50
- Campaspe,"3,540",9415.60
- Central Goldfields,"1,227",9332.20
- Colac-Otway,"2,096",9780.70
- Corangamite,"1,080",6662.60
- Gannawarra,664,6282.50
- Glenelg,"1,665",8455.20
- Golden Plains,752,3332.20
- Greater Bendigo,"10,556",9252.30
- Greater Geelong,"22,670",9225.60
- Hepburn,849,5432.20
- Hindmarsh,411,7187.80
- Horsham,"2,578",12964.50
- Loddon,411,5474.90
- Macedon Ranges,"2,222",4588.80
- Mildura,"6,763",12264.70
- Moorabool,"2,513",7514.50
- Mount Alexander,"1,117",5788.50
- Moyne,705,4198.20
- Northern Grampians,"1,252",10870.90
- Pyrenees,543,7379.70
- Queenscliffe,151,5103.10
- Southern Grampians,"1,330",8249.10
- Surf Coast,"1,316",4198.20
- Swan Hill,"2,288",10975.20
- Warrnambool,"3,458",10003.20
- West Wimmera,198,5084.70
- Yarriambiack,454,6792.30
-Total,"86,260",8788.20
- Justice Institutions and Immigration Facilities,"2,055",
+Banyule,"9,658",7480.2
+Brimbank,"17,863",8629.6
+Darebin,"16,355",10302.3
+HobsonsBay,"6,322",6649.8
+Hume,"21,916",10182.2
+Maribyrnong,"8,686",9720
+Melbourne,"36,935",23209
+Melton,"11,147",7500.4
+MooneeValley,"9,431",7520.1
+Moreland,"13,916",7863.3
+Nillumbik,"2,744",4246.5
+Whittlesea,"16,117",7472.4
+Wyndham,"14,731",6110.6
+Yarra,"13,430",13990.5
+Total,"199,251",9389.6
+Alpine,379,2998.9
+BassCoast,"2,647",7697.9
+BawBaw,"3,871",7638.7
+Benalla,"1,309",9367.4
+Boroondara,"8,350",4647.2
+EastGippsland,"3,888",8427.3
+GreaterShepparton,"8,324",12697.9
+Indigo,457,2798
+Knox,"12,105",7480.2
+Latrobe,"13,928",18593.5
+Manningham,"5,194",4179.6
+Mansfield,637,7241.9
+Maroondah,"8,925",7672.7
+Mitchell,"4,582",10679.9
+Moira,"1,979",6674.1
+Monash,"11,721",5952.1
+Murrindindi,671,4714.1
+SouthGippsland,"1,587",5412.5
+Strathbogie,632,6028.2
+Towong,207,3427.7
+Wangaratta,"2,473",8571
+Wellington,"4,386",10013.5
+Whitehorse,"8,544",4931.2
+Wodonga,"3,266",8002.5
+YarraRanges,"8,540",5444
+Total,"118,602",7065.3
+Bayside,"5,159",4947.2
+Cardinia,"6,606",6451
+Casey,"23,499",7191.3
+Frankston,"15,822",11243.8
+GlenEira,"7,532",4973
+GreaterDandenong,"19,900",12169.9
+Kingston,"11,282",7005.2
+MorningtonPeninsula,"11,638",7103.5
+PortPhillip,"13,620",12308.4
+Stonnington,"10,832",9520.8
+Total,"125,890",8182.8
+Ararat,"1,304",11092.2
+Ballarat,"11,970",11354.4
+Buloke,177,2852.5
+Campaspe,"3,540",9415.6
+CentralGoldfields,"1,227",9332.2
+Colac-Otway,"2,096",9780.7
+Corangamite,"1,080",6662.6
+Gannawarra,664,6282.5
+Glenelg,"1,665",8455.2
+GoldenPlains,752,3332.2
+GreaterBendigo,"10,556",9252.3
+GreaterGeelong,"22,670",9225.6
+Hepburn,849,5432.2
+Hindmarsh,411,7187.8
+Horsham,"2,578",12964.5
+Loddon,411,5474.9
+MacedonRanges,"2,222",4588.8
+Mildura,"6,763",12264.7
+Moorabool,"2,513",7514.5
+MountAlexander,"1,117",5788.5
+Moyne,705,4198.2
+NorthernGrampians,"1,252",10870.9
+Pyrenees,543,7379.7
+Queenscliffe,151,5103.1
+SouthernGrampians,"1,330",8249.1
+SurfCoast,"1,316",4198.2
+SwanHill,"2,288",10975.2
+Warrnambool,"3,458",10003.2
+WestWimmera,198,5084.7
+Yarriambiack,454,6792.3
+Total,"86,260",8788.2
+JusticeInstitutionsandImmigrationFacilities,"2,055",
 Total,"2,055",
- Unincorporated Vic,138,
+UnincorporatedVic,138,
 Total,138,
- Banyule,"10,015",7858.20
- Brimbank,"19,606",9601.80
- Darebin,"16,580",10688.10
- Hobsons Bay,"6,998",7488.90
- Hume,"22,609",10920.10
- Maribyrnong,"9,304",10701.40
- Melbourne,"36,161",24751.50
- Melton,"12,179",8611.90
- Moonee Valley,"9,285",7556.70
- Moreland,"14,740",8555.10
- Nillumbik,"3,463",5396.30
- Whittlesea,"15,500",7485.80
- Wyndham,"15,712",6921.30
- Yarra,"13,836",14894.40
-Total,"205,988",10058.00
- Alpine,425,3378.90
- Bass Coast,"3,032",9060.50
- Baw Baw,"4,135",8388.10
- Benalla,"1,519",10864.00
- Boroondara,"8,064",4548.80
- East Gippsland,"4,305",9440.80
- Greater Shepparton,"8,044",12361.70
- Indigo,464,2870.40
- Knox,"10,668",6652.80
- Latrobe,"14,090",18881.80
- Manningham,"4,492",3664.80
- Mansfield,563,6490.70
- Maroondah,"8,566",7461.70
- Mitchell,"4,383",10486.90
- Moira,"1,723",5843.50
- Monash,"12,230",6349.10
- Murrindindi,735,5230.60
- South Gippsland,"1,367",4694.00
- Strathbogie,586,5658.00
- Towong,257,4250.70
- Wangaratta,"2,553",8929.10
- Wellington,"4,636",10650.10
- Whitehorse,"8,217",4843.80
- Wodonga,"3,460",8628.40
- Yarra Ranges,"8,836",5692.30
-Total,"117,350",7090.50
- Bayside,"5,075",4931.40
- Cardinia,"7,662",7852.60
- Casey,"22,770",7279.70
- Frankston,"16,068",11518.10
- Glen Eira,"6,863",4619.00
- Greater Dandenong,"20,635",12879.00
- Kingston,"11,299",7108.90
- Mornington Peninsula,"11,633",7201.80
- Port Phillip,"12,881",11858.00
- Stonnington,"10,732",9668.20
-Total,"125,618",8365.20
- Ararat,"1,223",10412.90
- Ballarat,"11,616",11223.20
- Buloke,253,4026.10
- Campaspe,"3,557",9461.40
- Central Goldfields,"1,579",12065.40
- Colac-Otway,"1,862",8716.40
- Corangamite,810,4986.80
- Gannawarra,559,5290.10
- Glenelg,"1,592",8057.10
- Golden Plains,832,3779.10
- Greater Bendigo,"9,590",8542.10
- Greater Geelong,"23,205",9687.80
- Hepburn,847,5455.70
- Hindmarsh,300,5186.70
- Horsham,"2,893",14549.40
- Loddon,496,6562.60
- Macedon Ranges,"2,391",5035.80
- Mildura,"6,303",11531.70
- Moorabool,"2,321",7103.90
- Mount Alexander,"1,222",6398.90
- Moyne,586,3501.20
- Northern Grampians,"1,173",10138.30
- Pyrenees,579,7914.20
- Queenscliffe,154,5257.80
- Southern Grampians,"1,222",7579.20
- Surf Coast,"1,543",5064.80
- Swan Hill,"2,262",10825.00
- Warrnambool,"3,029",8845.90
- West Wimmera,202,5130.80
- Yarriambiack,500,7415.10
-Total,"84,701",8754.00
- Justice Institutions and Immigration Facilities,"1,637",
+Banyule,"10,015",7858.2
+Brimbank,"19,606",9601.8
+Darebin,"16,580",10688.1
+HobsonsBay,"6,998",7488.9
+Hume,"22,609",10920.1
+Maribyrnong,"9,304",10701.4
+Melbourne,"36,161",24751.5
+Melton,"12,179",8611.9
+MooneeValley,"9,285",7556.7
+Moreland,"14,740",8555.1
+Nillumbik,"3,463",5396.3
+Whittlesea,"15,500",7485.8
+Wyndham,"15,712",6921.3
+Yarra,"13,836",14894.4
+Total,"205,988",10058
+Alpine,425,3378.9
+BassCoast,"3,032",9060.5
+BawBaw,"4,135",8388.1
+Benalla,"1,519",10864
+Boroondara,"8,064",4548.8
+EastGippsland,"4,305",9440.8
+GreaterShepparton,"8,044",12361.7
+Indigo,464,2870.4
+Knox,"10,668",6652.8
+Latrobe,"14,090",18881.8
+Manningham,"4,492",3664.8
+Mansfield,563,6490.7
+Maroondah,"8,566",7461.7
+Mitchell,"4,383",10486.9
+Moira,"1,723",5843.5
+Monash,"12,230",6349.1
+Murrindindi,735,5230.6
+SouthGippsland,"1,367",4694
+Strathbogie,586,5658
+Towong,257,4250.7
+Wangaratta,"2,553",8929.1
+Wellington,"4,636",10650.1
+Whitehorse,"8,217",4843.8
+Wodonga,"3,460",8628.4
+YarraRanges,"8,836",5692.3
+Total,"117,350",7090.5
+Bayside,"5,075",4931.4
+Cardinia,"7,662",7852.6
+Casey,"22,770",7279.7
+Frankston,"16,068",11518.1
+GlenEira,"6,863",4619
+GreaterDandenong,"20,635",12879
+Kingston,"11,299",7108.9
+MorningtonPeninsula,"11,633",7201.8
+PortPhillip,"12,881",11858
+Stonnington,"10,732",9668.2
+Total,"125,618",8365.2
+Ararat,"1,223",10412.9
+Ballarat,"11,616",11223.2
+Buloke,253,4026.1
+Campaspe,"3,557",9461.4
+CentralGoldfields,"1,579",12065.4
+Colac-Otway,"1,862",8716.4
+Corangamite,810,4986.8
+Gannawarra,559,5290.1
+Glenelg,"1,592",8057.1
+GoldenPlains,832,3779.1
+GreaterBendigo,"9,590",8542.1
+GreaterGeelong,"23,205",9687.8
+Hepburn,847,5455.7
+Hindmarsh,300,5186.7
+Horsham,"2,893",14549.4
+Loddon,496,6562.6
+MacedonRanges,"2,391",5035.8
+Mildura,"6,303",11531.7
+Moorabool,"2,321",7103.9
+MountAlexander,"1,222",6398.9
+Moyne,586,3501.2
+NorthernGrampians,"1,173",10138.3
+Pyrenees,579,7914.2
+Queenscliffe,154,5257.8
+SouthernGrampians,"1,222",7579.2
+SurfCoast,"1,543",5064.8
+SwanHill,"2,262",10825
+Warrnambool,"3,029",8845.9
+WestWimmera,202,5130.8
+Yarriambiack,500,7415.1
+Total,"84,701",8754
+JusticeInstitutionsandImmigrationFacilities,"1,637",
 Total,"1,637",
- Unincorporated Vic,128,
+UnincorporatedVic,128,
 Total,128,
- Banyule,"8,951",7099.00
- Brimbank,"18,151",9036.60
- Darebin,"14,396",9472.70
- Hobsons Bay,"6,774",7389.20
- Hume,"18,937",9555.60
- Maribyrnong,"7,908",9327.30
- Melbourne,"34,524",25223.60
- Melton,"10,151",7524.00
- Moonee Valley,"9,034",7513.90
- Moreland,"12,926",7700.00
- Nillumbik,"2,240",3517.90
- Whittlesea,"12,993",6600.60
- Wyndham,"12,946",6054.80
- Yarra,"12,668",14087.60
-Total,"182,599",9232.90
- Alpine,444,3572.30
- Bass Coast,"2,602",7987.50
- Baw Baw,"3,584",7492.10
- Benalla,"1,083",7778.50
- Boroondara,"6,583",3767.00
- East Gippsland,"4,123",9189.20
- Greater Shepparton,"7,360",11412.80
- Indigo,471,2958.20
- Knox,"9,753",6145.60
- Latrobe,"12,909",17382.10
- Manningham,"4,325",3580.70
- Mansfield,435,5099.60
- Maroondah,"7,810",6910.10
- Mitchell,"3,684",9149.60
- Moira,"1,480",5053.30
- Monash,"9,411",4974.80
- Murrindindi,641,4628.80
- South Gippsland,"1,231",4277.10
- Strathbogie,494,4855.00
- Towong,170,2831.00
- Wangaratta,"2,450",8705.50
- Wellington,"4,194",9714.60
- Whitehorse,"7,501",4500.30
- Wodonga,"3,278",8357.30
- Yarra Ranges,"7,071",4609.80
-Total,"103,087",6323.40
- Bayside,"4,286",4232.30
- Cardinia,"6,333",6861.50
- Casey,"19,448",6492.90
- Frankston,"14,513",10532.70
- Glen Eira,"5,789",3967.10
- Greater Dandenong,"17,310",11091.80
- Kingston,"10,235",6550.70
- Mornington Peninsula,"10,535",6632.80
- Port Phillip,"11,984",11265.20
- Stonnington,"9,797",9068.90
-Total,"110,230",7537.90
- Ararat,"1,138",9773.30
- Ballarat,"11,021",10860.40
- Buloke,230,3647.30
- Campaspe,"3,006",8031.20
- Central Goldfields,"1,078",8324.30
- Colac-Otway,"1,349",6354.20
- Corangamite,638,3920.40
- Gannawarra,531,5039.90
- Glenelg,"1,799",9121.80
- Golden Plains,656,3067.10
- Greater Bendigo,"8,474",7710.10
- Greater Geelong,"19,158",8224.90
- Hepburn,743,4845.40
- Hindmarsh,197,3391.90
- Horsham,"2,829",14293.70
- Loddon,337,4474.80
- Macedon Ranges,"2,146",4627.70
- Mildura,"5,911",10914.80
- Moorabool,"2,041",6428.80
- Mount Alexander,955,5081.40
- Moyne,617,3718.90
- Northern Grampians,"1,099",9438.30
- Pyrenees,500,6964.80
- Queenscliffe,150,5114.20
- Southern Grampians,"1,038",6422.50
- Surf Coast,"1,376",4644.70
- Swan Hill,"2,223",10639.90
- Warrnambool,"2,978",8757.50
- West Wimmera,155,3900.40
- Yarriambiack,377,5523.00
-Total,"74,750",7858.80
- Justice Institutions and Immigration Facilities,"1,041",
+Banyule,"8,951",7099
+Brimbank,"18,151",9036.6
+Darebin,"14,396",9472.7
+HobsonsBay,"6,774",7389.2
+Hume,"18,937",9555.6
+Maribyrnong,"7,908",9327.3
+Melbourne,"34,524",25223.6
+Melton,"10,151",7524
+MooneeValley,"9,034",7513.9
+Moreland,"12,926",7700
+Nillumbik,"2,240",3517.9
+Whittlesea,"12,993",6600.6
+Wyndham,"12,946",6054.8
+Yarra,"12,668",14087.6
+Total,"182,599",9232.9
+Alpine,444,3572.3
+BassCoast,"2,602",7987.5
+BawBaw,"3,584",7492.1
+Benalla,"1,083",7778.5
+Boroondara,"6,583",3767
+EastGippsland,"4,123",9189.2
+GreaterShepparton,"7,360",11412.8
+Indigo,471,2958.2
+Knox,"9,753",6145.6
+Latrobe,"12,909",17382.1
+Manningham,"4,325",3580.7
+Mansfield,435,5099.6
+Maroondah,"7,810",6910.1
+Mitchell,"3,684",9149.6
+Moira,"1,480",5053.3
+Monash,"9,411",4974.8
+Murrindindi,641,4628.8
+SouthGippsland,"1,231",4277.1
+Strathbogie,494,4855
+Towong,170,2831
+Wangaratta,"2,450",8705.5
+Wellington,"4,194",9714.6
+Whitehorse,"7,501",4500.3
+Wodonga,"3,278",8357.3
+YarraRanges,"7,071",4609.8
+Total,"103,087",6323.4
+Bayside,"4,286",4232.3
+Cardinia,"6,333",6861.5
+Casey,"19,448",6492.9
+Frankston,"14,513",10532.7
+GlenEira,"5,789",3967.1
+GreaterDandenong,"17,310",11091.8
+Kingston,"10,235",6550.7
+MorningtonPeninsula,"10,535",6632.8
+PortPhillip,"11,984",11265.2
+Stonnington,"9,797",9068.9
+Total,"110,230",7537.9
+Ararat,"1,138",9773.3
+Ballarat,"11,021",10860.4
+Buloke,230,3647.3
+Campaspe,"3,006",8031.2
+CentralGoldfields,"1,078",8324.3
+Colac-Otway,"1,349",6354.2
+Corangamite,638,3920.4
+Gannawarra,531,5039.9
+Glenelg,"1,799",9121.8
+GoldenPlains,656,3067.1
+GreaterBendigo,"8,474",7710.1
+GreaterGeelong,"19,158",8224.9
+Hepburn,743,4845.4
+Hindmarsh,197,3391.9
+Horsham,"2,829",14293.7
+Loddon,337,4474.8
+MacedonRanges,"2,146",4627.7
+Mildura,"5,911",10914.8
+Moorabool,"2,041",6428.8
+MountAlexander,955,5081.4
+Moyne,617,3718.9
+NorthernGrampians,"1,099",9438.3
+Pyrenees,500,6964.8
+Queenscliffe,150,5114.2
+SouthernGrampians,"1,038",6422.5
+SurfCoast,"1,376",4644.7
+SwanHill,"2,223",10639.9
+Warrnambool,"2,978",8757.5
+WestWimmera,155,3900.4
+Yarriambiack,377,5523
+Total,"74,750",7858.8
+JusticeInstitutionsandImmigrationFacilities,"1,041",
 Total,"1,041",
- Unincorporated Vic,127,
+UnincorporatedVic,127,
 Total,127,
- Banyule,"9,880",7897.20
- Brimbank,"18,171",9155.60
- Darebin,"13,669",9142.50
- Hobsons Bay,"6,903",7634.60
- Hume,"16,618",8687.90
- Maribyrnong,"8,683",10529.60
- Melbourne,"31,711",24779.10
- Melton,"9,489",7338.20
- Moonee Valley,"8,323",7067.60
- Moreland,"12,384",7546.70
- Nillumbik,"2,116",3335.80
- Whittlesea,"14,053",7479.00
- Wyndham,"13,102",6501.80
- Yarra,"12,296",14096.40
-Total,"177,398",9256.50
- Alpine,548,4435.50
- Bass Coast,"2,749",8613.00
- Baw Baw,"3,469",7437.20
- Benalla,"1,147",8253.00
- Boroondara,"7,338",4250.00
- East Gippsland,"3,684",8320.30
- Greater Shepparton,"6,862",10735.50
- Indigo,488,3102.00
- Knox,"9,687",6153.10
- Latrobe,"10,604",14303.80
- Manningham,"4,193",3510.60
- Mansfield,469,5586.70
- Maroondah,"7,338",6585.80
- Mitchell,"3,239",8287.30
- Moira,"1,441",4951.90
- Monash,"8,825",4740.80
- Murrindindi,690,5041.30
- South Gippsland,"1,143",4007.60
- Strathbogie,514,5130.80
- Towong,263,4396.50
- Wangaratta,"2,439",8753.90
- Wellington,"4,091",9525.50
- Whitehorse,"7,375",4488.20
- Wodonga,"3,030",7897.00
- Yarra Ranges,"7,104",4674.70
-Total,"98,730",6131.40
- Bayside,"4,259",4267.70
- Cardinia,"5,870",6665.20
- Casey,"16,147",5607.80
- Frankston,"14,885",10930.30
- Glen Eira,"5,640",3925.00
- Greater Dandenong,"15,848",10417.10
- Kingston,"9,578",6211.00
- Mornington Peninsula,"10,108",6458.80
- Port Phillip,"11,323",10840.50
- Stonnington,"9,627",9091.20
-Total,"103,285",7228.40
- Ararat,968,8373.70
- Ballarat,"9,795",9803.40
- Buloke,195,3078.10
- Campaspe,"2,731",7314.30
- Central Goldfields,"1,026",7963.40
- Colac-Otway,"1,616",7647.50
- Corangamite,639,3910.60
- Gannawarra,570,5411.00
- Glenelg,"1,578",7987.90
- Golden Plains,503,2406.80
- Greater Bendigo,"8,325",7711.50
- Greater Geelong,"17,106",7511.10
- Hepburn,603,3971.30
- Hindmarsh,218,3730.30
- Horsham,"1,966",9955.40
- Loddon,551,7334.00
- Macedon Ranges,"1,928",4240.10
- Mildura,"5,768",10733.80
- Moorabool,"1,793",5771.60
- Mount Alexander,891,4816.00
- Moyne,626,3791.20
- Northern Grampians,906,7693.00
- Pyrenees,440,6243.80
- Queenscliffe,103,3468.00
- Southern Grampians,"1,081",6650.30
- Surf Coast,"1,304",4516.20
- Swan Hill,"1,933",9231.10
- Warrnambool,"2,645",7841.90
- West Wimmera,160,3962.40
- Yarriambiack,294,4246.10
-Total,"68,262",7273.40
- Justice Institutions and Immigration Facilities,"1,135",
+Banyule,"9,880",7897.2
+Brimbank,"18,171",9155.6
+Darebin,"13,669",9142.5
+HobsonsBay,"6,903",7634.6
+Hume,"16,618",8687.9
+Maribyrnong,"8,683",10529.6
+Melbourne,"31,711",24779.1
+Melton,"9,489",7338.2
+MooneeValley,"8,323",7067.6
+Moreland,"12,384",7546.7
+Nillumbik,"2,116",3335.8
+Whittlesea,"14,053",7479
+Wyndham,"13,102",6501.8
+Yarra,"12,296",14096.4
+Total,"177,398",9256.5
+Alpine,548,4435.5
+BassCoast,"2,749",8613
+BawBaw,"3,469",7437.2
+Benalla,"1,147",8253
+Boroondara,"7,338",4250
+EastGippsland,"3,684",8320.3
+GreaterShepparton,"6,862",10735.5
+Indigo,488,3102
+Knox,"9,687",6153.1
+Latrobe,"10,604",14303.8
+Manningham,"4,193",3510.6
+Mansfield,469,5586.7
+Maroondah,"7,338",6585.8
+Mitchell,"3,239",8287.3
+Moira,"1,441",4951.9
+Monash,"8,825",4740.8
+Murrindindi,690,5041.3
+SouthGippsland,"1,143",4007.6
+Strathbogie,514,5130.8
+Towong,263,4396.5
+Wangaratta,"2,439",8753.9
+Wellington,"4,091",9525.5
+Whitehorse,"7,375",4488.2
+Wodonga,"3,030",7897
+YarraRanges,"7,104",4674.7
+Total,"98,730",6131.4
+Bayside,"4,259",4267.7
+Cardinia,"5,870",6665.2
+Casey,"16,147",5607.8
+Frankston,"14,885",10930.3
+GlenEira,"5,640",3925
+GreaterDandenong,"15,848",10417.1
+Kingston,"9,578",6211
+MorningtonPeninsula,"10,108",6458.8
+PortPhillip,"11,323",10840.5
+Stonnington,"9,627",9091.2
+Total,"103,285",7228.4
+Ararat,968,8373.7
+Ballarat,"9,795",9803.4
+Buloke,195,3078.1
+Campaspe,"2,731",7314.3
+CentralGoldfields,"1,026",7963.4
+Colac-Otway,"1,616",7647.5
+Corangamite,639,3910.6
+Gannawarra,570,5411
+Glenelg,"1,578",7987.9
+GoldenPlains,503,2406.8
+GreaterBendigo,"8,325",7711.5
+GreaterGeelong,"17,106",7511.1
+Hepburn,603,3971.3
+Hindmarsh,218,3730.3
+Horsham,"1,966",9955.4
+Loddon,551,7334
+MacedonRanges,"1,928",4240.1
+Mildura,"5,768",10733.8
+Moorabool,"1,793",5771.6
+MountAlexander,891,4816
+Moyne,626,3791.2
+NorthernGrampians,906,7693
+Pyrenees,440,6243.8
+Queenscliffe,103,3468
+SouthernGrampians,"1,081",6650.3
+SurfCoast,"1,304",4516.2
+SwanHill,"1,933",9231.1
+Warrnambool,"2,645",7841.9
+WestWimmera,160,3962.4
+Yarriambiack,294,4246.1
+Total,"68,262",7273.4
+JusticeInstitutionsandImmigrationFacilities,"1,135",
 Total,"1,135",
- Unincorporated Vic,63,
+UnincorporatedVic,63,
 Total,63,
- Banyule,"7,517",6046.80
- Brimbank,"18,872",9620.30
- Darebin,"11,129",7556.80
- Hobsons Bay,"6,913",7751.00
- Hume,"15,072",8152.60
- Maribyrnong,"8,294",10395.80
- Melbourne,"34,249",28850.70
- Melton,"8,371",6754.30
- Moonee Valley,"8,049",6971.00
- Moreland,"11,788",7354.50
- Nillumbik,"1,925",3047.10
- Whittlesea,"11,926",6652.50
- Wyndham,"12,075",6348.20
- Yarra,"10,625",12654.50
-Total,"166,805",8984.40
- Alpine,417,3394.90
- Bass Coast,"2,229",7114.40
- Baw Baw,"3,104",6803.00
- Benalla,"1,020",7349.80
- Boroondara,"6,778",3975.70
- East Gippsland,"3,817",8712.80
- Greater Shepparton,"6,060",9581.90
- Indigo,436,2794.00
- Knox,"8,779",5615.10
- Latrobe,"10,268",13852.50
- Manningham,"3,530",2982.50
- Mansfield,320,3866.60
- Maroondah,"6,320",5756.90
- Mitchell,"2,506",6631.70
- Moira,"1,301",4501.00
- Monash,"8,501",4638.90
- Murrindindi,632,4659.70
- South Gippsland,"1,373",4856.20
- Strathbogie,518,5249.80
- Towong,271,4546.20
- Wangaratta,"2,313",8365.30
- Wellington,"3,781",8850.40
- Whitehorse,"7,256",4476.80
- Wodonga,"2,925",7784.40
- Yarra Ranges,"6,290",4168.30
-Total,"90,745",5701.20
- Bayside,"4,166",4240.10
- Cardinia,"5,318",6286.70
- Casey,"15,468",5563.60
- Frankston,"13,610",10130.20
- Glen Eira,"5,804",4108.70
- Greater Dandenong,"15,502",10438.90
- Kingston,"9,055",5944.10
- Mornington Peninsula,"9,068",5888.30
- Port Phillip,"11,417",11176.00
- Stonnington,"8,976",8673.60
-Total,"98,384",7042.70
- Ararat,"1,331",11584.00
- Ballarat,"9,655",9817.60
- Buloke,280,4383.20
- Campaspe,"2,593",6968.00
- Central Goldfields,"1,075",8388.60
- Colac-Otway,"1,362",6474.90
- Corangamite,636,3875.70
- Gannawarra,561,5329.70
- Glenelg,"1,365",6895.00
- Golden Plains,498,2445.70
- Greater Bendigo,"8,200",7739.00
- Greater Geelong,"16,339",7315.20
- Hepburn,642,4273.70
- Hindmarsh,277,4733.40
- Horsham,"2,652",13466.00
- Loddon,412,5480.20
- Macedon Ranges,"1,704",3821.10
- Mildura,"5,501",10348.80
- Moorabool,"1,781",5856.60
- Mount Alexander,900,4932.30
- Moyne,555,3377.80
- Northern Grampians,"1,974",16616.20
- Pyrenees,365,5260.90
- Queenscliffe,92,3064.60
- Southern Grampians,"1,026",6273.30
- Surf Coast,"1,187",4205.00
- Swan Hill,"1,760",8379.80
- Warrnambool,"2,264",6773.80
- West Wimmera,173,4195.00
- Yarriambiack,372,5290.10
-Total,"67,532",7288.10
- Justice Institutions and Immigration Facilities,"1,249",
+Banyule,"7,517",6046.8
+Brimbank,"18,872",9620.3
+Darebin,"11,129",7556.8
+HobsonsBay,"6,913",7751
+Hume,"15,072",8152.6
+Maribyrnong,"8,294",10395.8
+Melbourne,"34,249",28850.7
+Melton,"8,371",6754.3
+MooneeValley,"8,049",6971
+Moreland,"11,788",7354.5
+Nillumbik,"1,925",3047.1
+Whittlesea,"11,926",6652.5
+Wyndham,"12,075",6348.2
+Yarra,"10,625",12654.5
+Total,"166,805",8984.4
+Alpine,417,3394.9
+BassCoast,"2,229",7114.4
+BawBaw,"3,104",6803
+Benalla,"1,020",7349.8
+Boroondara,"6,778",3975.7
+EastGippsland,"3,817",8712.8
+GreaterShepparton,"6,060",9581.9
+Indigo,436,2794
+Knox,"8,779",5615.1
+Latrobe,"10,268",13852.5
+Manningham,"3,530",2982.5
+Mansfield,320,3866.6
+Maroondah,"6,320",5756.9
+Mitchell,"2,506",6631.7
+Moira,"1,301",4501
+Monash,"8,501",4638.9
+Murrindindi,632,4659.7
+SouthGippsland,"1,373",4856.2
+Strathbogie,518,5249.8
+Towong,271,4546.2
+Wangaratta,"2,313",8365.3
+Wellington,"3,781",8850.4
+Whitehorse,"7,256",4476.8
+Wodonga,"2,925",7784.4
+YarraRanges,"6,290",4168.3
+Total,"90,745",5701.2
+Bayside,"4,166",4240.1
+Cardinia,"5,318",6286.7
+Casey,"15,468",5563.6
+Frankston,"13,610",10130.2
+GlenEira,"5,804",4108.7
+GreaterDandenong,"15,502",10438.9
+Kingston,"9,055",5944.1
+MorningtonPeninsula,"9,068",5888.3
+PortPhillip,"11,417",11176
+Stonnington,"8,976",8673.6
+Total,"98,384",7042.7
+Ararat,"1,331",11584
+Ballarat,"9,655",9817.6
+Buloke,280,4383.2
+Campaspe,"2,593",6968
+CentralGoldfields,"1,075",8388.6
+Colac-Otway,"1,362",6474.9
+Corangamite,636,3875.7
+Gannawarra,561,5329.7
+Glenelg,"1,365",6895
+GoldenPlains,498,2445.7
+GreaterBendigo,"8,200",7739
+GreaterGeelong,"16,339",7315.2
+Hepburn,642,4273.7
+Hindmarsh,277,4733.4
+Horsham,"2,652",13466
+Loddon,412,5480.2
+MacedonRanges,"1,704",3821.1
+Mildura,"5,501",10348.8
+Moorabool,"1,781",5856.6
+MountAlexander,900,4932.3
+Moyne,555,3377.8
+NorthernGrampians,"1,974",16616.2
+Pyrenees,365,5260.9
+Queenscliffe,92,3064.6
+SouthernGrampians,"1,026",6273.3
+SurfCoast,"1,187",4205
+SwanHill,"1,760",8379.8
+Warrnambool,"2,264",6773.8
+WestWimmera,173,4195
+Yarriambiack,372,5290.1
+Total,"67,532",7288.1
+JusticeInstitutionsandImmigrationFacilities,"1,249",
 Total,"1,249",
- Unincorporated Vic,114,
+UnincorporatedVic,114,
 Total,114,
- Banyule,"7,280",5890.70
- Brimbank,"17,348",8952.70
- Darebin,"11,836",8163.50
- Hobsons Bay,"6,425",7273.10
- Hume,"14,806",8262.20
- Maribyrnong,"9,144",11847.80
- Melbourne,"31,624",29396.30
- Melton,"8,258",6978.80
- Moonee Valley,"7,806",6867.10
- Moreland,"11,677",7439.10
- Nillumbik,"1,840",2923.70
- Whittlesea,"11,673",6866.80
- Wyndham,"12,488",6971.40
- Yarra,"10,945",13467.80
-Total,"163,150",9079.30
- Alpine,414,3398.20
- Bass Coast,"2,069",6715.10
- Baw Baw,"2,524",5671.10
- Benalla,932,6729.70
- Boroondara,"6,437",3820.60
- East Gippsland,"2,930",6762.20
- Greater Shepparton,"6,268",10018.90
- Indigo,499,3228.90
- Knox,"8,409",5411.00
- Latrobe,"9,094",12288.50
- Manningham,"4,123",3510.70
- Mansfield,349,4310.20
- Maroondah,"6,564",6053.50
- Mitchell,"2,391",6571.60
- Moira,"1,458",5084.60
- Monash,"8,162",4526.60
- Murrindindi,599,4451.50
- South Gippsland,"1,085",3885.30
- Strathbogie,423,4341.10
- Towong,283,4764.30
- Wangaratta,"2,207",8043.60
- Wellington,"3,146",7411.90
- Whitehorse,"6,292",3940.80
- Wodonga,"3,096",8422.70
- Yarra Ranges,"6,346",4234.50
-Total,"86,100",5473.10
- Bayside,"4,346",4481.80
- Cardinia,"4,666",5801.90
- Casey,"14,392",5345.40
- Frankston,"12,328",9325.70
- Glen Eira,"5,680",4082.90
- Greater Dandenong,"14,383",9911.40
- Kingston,"8,986",5973.30
- Mornington Peninsula,"9,039",5958.50
- Port Phillip,"11,306",11318.10
- Stonnington,"8,738",8616.50
-Total,"93,864",6869.00
- Ararat,"1,105",9693.00
- Ballarat,"9,790",10121.20
- Buloke,297,4616.10
- Campaspe,"2,513",6784.40
- Central Goldfields,863,6787.80
- Colac-Otway,"1,420",6793.60
- Corangamite,803,4875.50
- Gannawarra,481,4581.80
- Glenelg,"1,290",6506.90
- Golden Plains,436,2224.00
- Greater Bendigo,"6,760",6505.90
- Greater Geelong,"15,128",6903.00
- Hepburn,691,4661.00
- Hindmarsh,253,4319.60
- Horsham,"2,008",10240.70
- Loddon,412,5472.20
- Macedon Ranges,"1,464",3342.90
- Mildura,"5,273",10048.60
- Moorabool,"1,442",4910.90
- Mount Alexander,879,4869.00
- Moyne,628,3851.80
- Northern Grampians,924,7719.30
- Pyrenees,254,3702.60
- Queenscliffe,316,10336.90
- Southern Grampians,977,5935.20
- Surf Coast,"1,341",4871.00
- Swan Hill,"1,809",8626.20
- Warrnambool,"2,337",7069.20
- West Wimmera,134,3179.90
- Yarriambiack,394,5553.20
-Total,"62,422",6831.80
- Justice Institutions and Immigration Facilities,"1,004",
+Banyule,"7,280",5890.7
+Brimbank,"17,348",8952.7
+Darebin,"11,836",8163.5
+HobsonsBay,"6,425",7273.1
+Hume,"14,806",8262.2
+Maribyrnong,"9,144",11847.8
+Melbourne,"31,624",29396.3
+Melton,"8,258",6978.8
+MooneeValley,"7,806",6867.1
+Moreland,"11,677",7439.1
+Nillumbik,"1,840",2923.7
+Whittlesea,"11,673",6866.8
+Wyndham,"12,488",6971.4
+Yarra,"10,945",13467.8
+Total,"163,150",9079.3
+Alpine,414,3398.2
+BassCoast,"2,069",6715.1
+BawBaw,"2,524",5671.1
+Benalla,932,6729.7
+Boroondara,"6,437",3820.6
+EastGippsland,"2,930",6762.2
+GreaterShepparton,"6,268",10018.9
+Indigo,499,3228.9
+Knox,"8,409",5411
+Latrobe,"9,094",12288.5
+Manningham,"4,123",3510.7
+Mansfield,349,4310.2
+Maroondah,"6,564",6053.5
+Mitchell,"2,391",6571.6
+Moira,"1,458",5084.6
+Monash,"8,162",4526.6
+Murrindindi,599,4451.5
+SouthGippsland,"1,085",3885.3
+Strathbogie,423,4341.1
+Towong,283,4764.3
+Wangaratta,"2,207",8043.6
+Wellington,"3,146",7411.9
+Whitehorse,"6,292",3940.8
+Wodonga,"3,096",8422.7
+YarraRanges,"6,346",4234.5
+Total,"86,100",5473.1
+Bayside,"4,346",4481.8
+Cardinia,"4,666",5801.9
+Casey,"14,392",5345.4
+Frankston,"12,328",9325.7
+GlenEira,"5,680",4082.9
+GreaterDandenong,"14,383",9911.4
+Kingston,"8,986",5973.3
+MorningtonPeninsula,"9,039",5958.5
+PortPhillip,"11,306",11318.1
+Stonnington,"8,738",8616.5
+Total,"93,864",6869
+Ararat,"1,105",9693
+Ballarat,"9,790",10121.2
+Buloke,297,4616.1
+Campaspe,"2,513",6784.4
+CentralGoldfields,863,6787.8
+Colac-Otway,"1,420",6793.6
+Corangamite,803,4875.5
+Gannawarra,481,4581.8
+Glenelg,"1,290",6506.9
+GoldenPlains,436,2224
+GreaterBendigo,"6,760",6505.9
+GreaterGeelong,"15,128",6903
+Hepburn,691,4661
+Hindmarsh,253,4319.6
+Horsham,"2,008",10240.7
+Loddon,412,5472.2
+MacedonRanges,"1,464",3342.9
+Mildura,"5,273",10048.6
+Moorabool,"1,442",4910.9
+MountAlexander,879,4869
+Moyne,628,3851.8
+NorthernGrampians,924,7719.3
+Pyrenees,254,3702.6
+Queenscliffe,316,10336.9
+SouthernGrampians,977,5935.2
+SurfCoast,"1,341",4871
+SwanHill,"1,809",8626.2
+Warrnambool,"2,337",7069.2
+WestWimmera,134,3179.9
+Yarriambiack,394,5553.2
+Total,"62,422",6831.8
+JusticeInstitutionsandImmigrationFacilities,"1,004",
 Total,"1,004",
- Unincorporated Vic,135,
+UnincorporatedVic,135,
 Total,135,
