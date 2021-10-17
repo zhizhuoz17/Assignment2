@@ -56,7 +56,7 @@ Year,LGA,Offence,Rate
 2021,Buloke,411,6817.1
 2021,Campaspe,3312,8805.5
 2021,Central Goldfields,1119,8572.1
-2021,Colac-Otway,1521,7033.3
+2021,Colac Otway,1521,7033.3
 2021,Corangamite,861,5478.9
 2021,Gannawarra,976,9455.9
 2021,Glenelg,1699,8689.3
@@ -76,7 +76,7 @@ Year,LGA,Offence,Rate
 2021,Pyrenees,478,6321
 2021,Queenscliffe,99,3280.1
 2021,Southern Grampians,1066,6645.1
-2021,SurfCoast,1456,4059.1
+2021,Surf Coast,1456,4059.1
 2021,Swan Hill,2604,12776.4
 2021,Warrnambool,3303,9295.9
 2021,West Wimmera,167,4430.7
@@ -143,7 +143,7 @@ Year,LGA,Offence,Rate
 2020,Buloke,366,5999
 2020,Campaspe,3875,10285.3
 2020,Central Goldfields,1238,9456.2
-2020,Colac-Otway,1781,8221.8
+2020,Colac Otway,1781,8221.8
 2020,Corangamite,712,4469.8
 2020,Gannawarra,774,7442.3
 2020,Glenelg,1597,8139.2
@@ -163,7 +163,7 @@ Year,LGA,Offence,Rate
 2020,Pyrenees,551,7293.2
 2020,Queenscliffe,115,3823.1
 2020,Southern Grampians,1191,7381.9
-2020,SurfCoast,1345,3868.2
+2020,Surf Coast,1345,3868.2
 2020,Swan Hill,2418,11775.6
 2020,Warrnambool,3267,9194.3
 2020,West Wimmera,168,4409.4
@@ -230,7 +230,7 @@ Year,LGA,Offence,Rate
 2019,Buloke,253,4132
 2019,Campaspe,4125,10966.4
 2019,Central Goldfields,1316,9983.3
-2019,Colac-Otway,1593,7388
+2019,Colac Otway,1593,7388
 2019,Corangamite,672,4195.5
 2019,Gannawarra,895,8549
 2019,Glenelg,1433,7284.8
@@ -250,7 +250,7 @@ Year,LGA,Offence,Rate
 2019,Pyrenees,638,8540.8
 2019,Queenscliffe,136,4627.4
 2019,Southern Grampians,1385,8603.6
-2019,SurfCoast,1176,3515
+2019,Surf Coast,1176,3515
 2019,Swan Hill,2609,12634.4
 2019,Warrnambool,3882,11034.4
 2019,West Wimmera,179,4662.7
@@ -317,7 +317,7 @@ Year,LGA,Offence,Rate
 2018,Buloke,247,3994.8
 2018,Campaspe,3571,9499.9
 2018,Central Goldfields,1603,12136.6
-2018,Colac-Otway,1586,7376.1
+2018,Colac Otway,1586,7376.1
 2018,Corangamite,849,5260.5
 2018,Gannawarra,568,5385.9
 2018,Glenelg,1544,7851.9
@@ -337,7 +337,7 @@ Year,LGA,Offence,Rate
 2018,Pyrenees,420,5712
 2018,Queenscliffe,294,9859.2
 2018,Southern Grampians,1508,9346.7
-2018,SurfCoast,1130,3503.7
+2018,Surf Coast,1130,3503.7
 2018,Swan Hill,2518,12129.1
 2018,Warrnambool,3659,10495.4
 2018,West Wimmera,159,4117
@@ -404,7 +404,7 @@ Year,LGA,Offence,Rate
 2017,Buloke,177,2852.5
 2017,Campaspe,3540,9415.6
 2017,Central Goldfields,1227,9332.2
-2017,Colac-Otway,2096,9780.7
+2017,Colac Otway,2096,9780.7
 2017,Corangamite,1080,6662.6
 2017,Gannawarra,664,6282.5
 2017,Glenelg,1665,8455.2
@@ -424,7 +424,7 @@ Year,LGA,Offence,Rate
 2017,Pyrenees,543,7379.7
 2017,Queenscliffe,151,5103.1
 2017,Southern Grampians,1330,8249.1
-2017,SurfCoast,1316,4198.2
+2017,Surf Coast,1316,4198.2
 2017,Swan Hill,2288,10975.2
 2017,Warrnambool,3458,10003.2
 2017,West Wimmera,198,5084.7
@@ -491,7 +491,7 @@ Year,LGA,Offence,Rate
 2016,Buloke,253,4026.1
 2016,Campaspe,3557,9461.4
 2016,Central Goldfields,1579,12065.4
-2016,Colac-Otway,1862,8716.4
+2016,Colac Otway,1862,8716.4
 2016,Corangamite,810,4986.8
 2016,Gannawarra,559,5290.1
 2016,Glenelg,1592,8057.1
@@ -511,7 +511,7 @@ Year,LGA,Offence,Rate
 2016,Pyrenees,579,7914.2
 2016,Queenscliffe,154,5257.8
 2016,Southern Grampians,1222,7579.2
-2016,SurfCoast,1543,5064.8
+2016,Surf Coast,1543,5064.8
 2016,Swan Hill,2262,10825
 2016,Warrnambool,3029,8845.9
 2016,West Wimmera,202,5130.8
@@ -578,7 +578,7 @@ Year,LGA,Offence,Rate
 2015,Buloke,230,3647.3
 2015,Campaspe,3006,8031.2
 2015,Central Goldfields,1078,8324.3
-2015,Colac-Otway,1349,6354.2
+2015,Colac Otway,1349,6354.2
 2015,Corangamite,638,3920.4
 2015,Gannawarra,531,5039.9
 2015,Glenelg,1799,9121.8
@@ -598,7 +598,7 @@ Year,LGA,Offence,Rate
 2015,Pyrenees,500,6964.8
 2015,Queenscliffe,150,5114.2
 2015,Southern Grampians,1038,6422.5
-2015,SurfCoast,1376,4644.7
+2015,Surf Coast,1376,4644.7
 2015,Swan Hill,2223,10639.9
 2015,Warrnambool,2978,8757.5
 2015,West Wimmera,155,3900.4
@@ -665,7 +665,7 @@ Year,LGA,Offence,Rate
 2014,Buloke,195,3078.1
 2014,Campaspe,2731,7314.3
 2014,Central Goldfields,1026,7963.4
-2014,Colac-Otway,1616,7647.5
+2014,Colac Otway,1616,7647.5
 2014,Corangamite,639,3910.6
 2014,Gannawarra,570,5411
 2014,Glenelg,1578,7987.9
@@ -685,7 +685,7 @@ Year,LGA,Offence,Rate
 2014,Pyrenees,440,6243.8
 2014,Queenscliffe,103,3468
 2014,Southern Grampians,1081,6650.3
-2014,SurfCoast,1304,4516.2
+2014,Surf Coast,1304,4516.2
 2014,Swan Hill,1933,9231.1
 2014,Warrnambool,2645,7841.9
 2014,West Wimmera,160,3962.4
@@ -752,7 +752,7 @@ Year,LGA,Offence,Rate
 2013,Buloke,280,4383.2
 2013,Campaspe,2593,6968
 2013,Central Goldfields,1075,8388.6
-2013,Colac-Otway,1362,6474.9
+2013,Colac Otway,1362,6474.9
 2013,Corangamite,636,3875.7
 2013,Gannawarra,561,5329.7
 2013,Glenelg,1365,6895
@@ -772,7 +772,7 @@ Year,LGA,Offence,Rate
 2013,Pyrenees,365,5260.9
 2013,Queenscliffe,92,3064.6
 2013,Southern Grampians,1026,6273.3
-2013,SurfCoast,1187,4205
+2013,Surf Coast,1187,4205
 2013,Swan Hill,1760,8379.8
 2013,Warrnambool,2264,6773.8
 2013,West Wimmera,173,4195
@@ -839,7 +839,7 @@ Year,LGA,Offence,Rate
 2012,Buloke,297,4616.1
 2012,Campaspe,2513,6784.4
 2012,Central Goldfields,863,6787.8
-2012,Colac-Otway,1420,6793.6
+2012,Colac Otway,1420,6793.6
 2012,Corangamite,803,4875.5
 2012,Gannawarra,481,4581.8
 2012,Glenelg,1290,6506.9
@@ -859,7 +859,7 @@ Year,LGA,Offence,Rate
 2012,Pyrenees,254,3702.6
 2012,Queenscliffe,316,10336.9
 2012,Southern Grampians,977,5935.2
-2012,SurfCoast,1341,4871
+2012,Surf Coast,1341,4871
 2012,Swan Hill,1809,8626.2
 2012,Warrnambool,2337,7069.2
 2012,West Wimmera,134,3179.9
