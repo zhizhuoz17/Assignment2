@@ -1,0 +1,76 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/zhizhuoz17/Assignment2/main/splom%20data.csv"
+    },
+    "repeat": {
+      "row": [
+        "Crimes against the person",
+        "Property and deception offences",
+        "Drug Offences",
+        "Public order and security offences",
+        "Justice procedures offences",
+        "Other offences"
+      ],
+      "column": [
+        "Other offences",
+        "Justice procedures offences",
+        "Public order and security offences",
+        "Drug Offences",
+        "Property and deception offences",
+        "Crimes against the person"
+      ]
+    },
+    "spec": {
+      "width":100,
+      "height":100,
+      "mark": {"type": "point", "opacity": 0.7},
+      "encoding": {
+        "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+        "y": {"field": {"repeat": "row"}, "type": "quantitative"},
+        "color": {
+          "field": "Region",
+          "type": "nominal",
+          "scale": {"domain": ["Metro", "Regional"], "range": ["#af8dc3", "#7fbf7b"]},
+          "legend": null
+        },
+        "tooltip": [
+        {
+            "field": "LGA", 
+            "type": "nominal"
+        },
+        {
+            "field": "Crimes against the person", 
+            "type": "quantitative"},
+        {
+          "field": "Property and deception offences",
+          "title": "Property and deception",
+          "type": "quantitative",
+          "format": ","
+        },
+        {
+          "field": "Drug Offences",
+          "type": "quantitative",
+          "format": ","
+        },
+        {
+          "field": "Public order and security offences",
+          "title": "Public order and security",
+          "type": "quantitative",
+          "format": ","
+        },
+        {
+          "field": "Justice procedures offences",
+          "title": "Justice procedures",
+          "type": "quantitative",
+          "format": ","
+        },
+        {
+          "field": "Other offences",
+          "type": "quantitative",
+          "format": ","
+        }
+      ]
+    }
+  }
+}

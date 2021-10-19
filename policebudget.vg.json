@@ -1,0 +1,13 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 700,
+    "height":200,
+    "data": {"url": "https://raw.githubusercontent.com/zhizhuoz17/week9hw/main/police%20budget.csv"},
+    "title": "Victorian Police Budget over Time (2011-2020)",
+    "mark": "line",
+    "encoding": {
+      "x": {"timeUnit":"year", "field": "Year", "title": "Year", "axis":{"tickCount":"year"}},
+      "y": {"field": "Budget", "type": "quantitative", "title":"Budget (billions)"}
+    }
+  }
+  

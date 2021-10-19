@@ -1,0 +1,118 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Median house price per suburb (2010-2020)",
+    "width": 400,
+    "height": 900,
+    "params": [
+        {
+            "name": "Year_selection",
+            "value": 2018,
+            "bind": {
+                "input": "range",
+                "min": 2012,
+                "max": 2020,
+                "step": 1,
+                "name": "Year: "
+            }
+        }
+    ],
+    "projection": {
+        "type": "equirectangular"
+    },
+    "layer": [
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/zhizhuoz17/Assignment2/main/vic_lga.topojson",
+                "format": {
+                    "type": "topojson",
+                    "feature": "unnamed"
+                }
+            },
+            "transform": [
+                {
+                    "calculate": "'Data is not available in ' + datum.properties.ABB_NAME",
+                    "as": "note"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "fill": "#ddd",
+                "stroke": "white",
+                "strokeWidth": 1
+            },
+            "encoding": {
+                "tooltip": {
+                    "field": "note"
+                }
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/zhizhuoz17/Assignment2/main/rate%20and%20lga%20with%20year.csv"
+            },
+            "transform": [
+                {
+                    "lookup": "LGA",
+                    "from": {
+                        "data": {
+                            "url": "https://raw.githubusercontent.com/zhizhuoz17/Assignment2/main/vic_lga.topojson",
+                            "format": {
+                                "type": "topojson",
+                                "feature": "unnamed"
+                            }
+                        },
+                        "key": "properties.ABB_NAME"
+                    },
+                    "as": "geo"
+                },
+                {
+                    "filter": "datum.year == Year_selection"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "stroke": "#fff",
+                "strokeWidth": 0.5
+            },
+            "encoding": {
+                "shape": {
+                    "field": "geo",
+                    "type": "geojson"
+                },
+                "color": {
+                    "field": "Rate",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            400,
+                            18000
+                        ],
+                        "scheme": "reds"
+                    },
+                    "legend": {
+                        "format": ".2s"
+                    }
+                },
+                "tooltip": [
+                    {
+                        "field": "LGA",
+                        "type": "nominal",
+                        "title": "LGA"
+                    },
+                    {
+                        "field": "Rate",
+                        "type": "quantitative",
+                        "title": "Rate of crime",
+                        "format": ","
+                    },
+                    {
+                        "field": "year",
+                        "type": "quantitative",
+                        "title": "Year"
+                    }
+                ]
+            }
+        }
+    ],
+    "config": {}
+}

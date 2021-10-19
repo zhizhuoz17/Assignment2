@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Crime Rate in Victorian Local Government Areas (2012-2021)",
+  "width": 1200,
+  "height": 500,
+  "params": [
+    {
+      "name": "year_selection",
+      "value": 2012,
+      "bind": {
+        "input": "range",
+        "min": 2012,
+        "max": 2021,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "projection": {"type": "equirectangular"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/zhizhuoz17/Assignment2/main/vic_lga_small.json",
+        "format": {"type": "topojson", "feature": "unnamed"}
+      },
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.ABB_NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ddd",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {"tooltip": {"field": "note"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/zhizhuoz17/Assignment2/main/rate%20and%20lga%20with%20year.csv"
+      },
+      "transform": [
+        {
+          "lookup": "LGA",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/zhizhuoz17/Assignment2/main/vic_lga_small.json",
+              "format": {"type": "topojson", "feature": "unnamed"}
+            },
+            "key": "properties.ABB_NAME"
+          },
+          "as": "geo"
+        },
+        {"filter": "datum.Year == year_selection"}
+      ],
+      "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.5},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "Rate",
+          "type": "quantitative",
+          "scale": {"domain": [400, 18000], "scheme": "reds"},
+          "legend": {"format": ".2s"}
+        },
+        "tooltip": [
+          {"field": "LGA", "type": "nominal", "title": "LGA"},
+          {
+            "field": "Rate",
+            "type": "quantitative",
+            "title": "Rate of crime",
+            "format": ","
+          },
+          {"field": "Year", "type": "quantitative"}
+        ]
+      }
+    }
+  ],
+  "config": {}
+}

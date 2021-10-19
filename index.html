@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crime Rate in Victoria</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css"
+        integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css" />
+
+    <script src="vega_lite_vis.js"></script>
+    <style>
+        .page {
+            width: 1250px;
+            background-color: white;
+            margin: auto;
+            padding: 50px;
+            padding-top: 60px;
+        }
+
+        #c-align-body {
+            text-align: center;
+            text-justify: auto;
+            margin: auto;
+            width: 80%;
+            font-size: 50;
+            padding: 10px;
+        }
+
+        #c-align-subtitle {
+            text-align: center;
+            text-justify: auto;
+            margin: auto;
+            width: 90%;
+            font-size: 50;
+            padding: 10px;
+        }
+
+        .centre_heading {
+            text-align: center;
+            margin: 200;
+            width: 20;
+        }
+
+
+        .body_border {
+            border: 2px solid black;
+        }
+
+        .metro {
+            color: #af8dc3;
+            font-weight: bold;
+        }
+
+        .regional {
+            color: #7fbf7b;
+            font-weight: bold;
+        }
+
+        .bluetext {
+            color: blue;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body class='page'>
+
+    <div class="pure-g">
+        <div class="pure-u-1-1">
+            <div class='body_border'>
+                <h1 class="centre_heading"> <br>Crime Rate in Victoria
+                </h1>
+                <div class="pure-u-1-1">
+                    <p id="c-align-body"> Zhizhuo Zhang 30626366 <br><br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+
+    <br><br><br>
+
+    <div>
+        <div class="pure-g">
+            <div class="pure-u-1-3">
+                <p id='c-align-body'>From the annual budget reports by the Victorian Police Commisioner, we can see that
+                    the Victorian Police Force has received a steadily increasing budget over the past 10 years.
+                    How has this continuous budget increase impacted crime rates across Victoria?</p>
+            </div>
+
+            <div class="pure-u-2-3">
+                <div id='line'>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <br><br><br>
+
+
+    <div>
+        <div class="pure-g">
+            <div class="pure-u-1-3">
+                <p id='c-align-body'>Let's have a look at the crime rate in Victoria over the past 10 years (2012-2021).
+                    Due to the large variation in population between each Local Govenment Area (LGA), we'll normalise
+                    the
+                    rate of offences by the population. Let's compare the rate of offences in <span class='metro'>Metro
+                        Victoria</span>
+                    and <span class="regional">Regional Victoria.<br><br><br><br></span>
+
+
+                <p id='c-align-body'>From the scatter plot on the right, we can see no clear separation of data points
+                    from
+                    <span class='metro'>Metro Victoria</span> and <span class="regional">Regional Victoria</span> ;
+                    rather, all the data points
+                    are mixed with each other. This would indicate that <span class='metro'>Metro Victoria</span>
+                    and <span class="regional">Regional Victoria</span> are very similar in terms of overall safety.<br><br><br><br>
+                </p>
+
+
+                <p id='c-align-body'>The <span class='bluetext'>blue</span> line is the average rate of offences per
+                    100,000 residents of
+                    every LGA in that particular year. On the both graph, we can see more clearly that there has been a
+                    steady rise in the
+                    average number of offences over the past decade. <br><br><br><br></p>
+                </p>
+
+                <p id='c-align-body'>It would be interesting to discuss why there was a sudden spike in the average
+                    offence rate in 2016.<br><br><br><br></p>
+                </p>
+
+
+                <p id='c-align-body'>Note that the vertical axis is not zero. Highlight a region on the bottom graph
+                    to inspect more detail!</p>
+                </p>
+
+
+            </div>
+
+            <div class="pure-u-2-3">
+                <div id='scatter'>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <p id='c-align-subtitle'><br><br><br><br>With all this talk about the crime rate in different LGAs, let's
+                    have a look at the crime
+                    rate in different Victorian LGA's over the past decade. Use the slider to see the changes over the
+                    years.<br><br></p>
+            </div>
+
+            <div class="pure-u-1-1">
+                <div id='map'>
+                </div>
+            </div>
+
+            <div class="pure-u-1-1">
+                <p id='c-align-subtitle'><br><br><br><br>Comparing 2012 to 2021, it's not difficult to see an overall
+                    darkening in the colour of the
+                    entire map, corresponding to an overall increase in the rate of offences per 100,000 residents over
+                    the years.<br><br></p>
+            </div>
+
+        </div>
+    </div>
+
+    <div>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <p id='c-align-subtitle'><br><br><br><br>Another interesting point to discuss would be the following; are
+                    different subcategories of crimes correlated? That is, are LGAs with a high rate of "Crime against the person",
+                    which includes offences such as assault and homicide, more prone to having higher rate of "Drug offences"?
+                    The Victorian Police categorizes all offences into 6 categories. Let's have a look at their relationships with 
+                    this scatterplot matrix below. Note we are just using 2021 data here.<br><br></p>
+            </div>
+
+            <div class="pure-u-1-1">
+                <div id='splom'>
+                </div>
+            </div>
+
+            <div class="pure-u-1-1">
+                <p id='c-align-subtitle'><br><br><br><br>We can see that there does seem to be a positive correlation between all types of offences,
+                    especially drug offences seemingly being a positive factor influence on the rate of other offences. The category of 'other offences'
+                    seems to not have a strong relationship with other subcategories of offences. An interesting note is here, datapoints of 
+                    <span class='metro'> Metro Victoria</span> and <span class='regional'> Regional Victoria</span> seem to have more separation.
+                    For example, we can see that <span class='metro'> Metro Victoria</span> has an overall higher "Drug offence" rate, whilst 
+                    <span class='regional'> Regional Victoria</span> has an higher average "Justice procedure offences".
+                    <br><br></p>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
